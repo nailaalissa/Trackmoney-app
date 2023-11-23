@@ -1,6 +1,5 @@
-# projectTrackMoney
-<h1>Money Tracking Application</h1>
-<h2>Overview</h2>
+Money Tracking Application
+Overview
 This money tracking application allows users to manage their expenses and incomes in a simple and intuitive way. Users can enter, edit, and remove items, assign them to a specific month, and save the current state to a file for later retrieval.
 
 Features
