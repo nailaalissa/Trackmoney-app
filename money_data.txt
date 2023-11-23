@@ -1,0 +1,20 @@
+Expense,Clothing,100,February
+Income,Consulting,700,March
+Expense,Dining Out,75,January
+Income,Dividends,200,February
+Expense,Entertainment,75,January
+Income,Freelance,800,July
+Expense,Groceries,200,March
+Expense,Insurance,300,March
+Income,Investment,1000,May
+Expense,Medical,120,July
+Income,Online Sales,300,January
+Income,Part-time Job,1200,February
+Expense,Phone Bill,80,November
+Expense,Rent,4,april
+Expense,rental,1200,February
+Income,Salary,5000,November
+Income,Side Project,400,August
+Expense,Transportation,50,September
+Expense,Utilities,150,August
+Expense,new pc,234,september
