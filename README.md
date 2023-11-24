@@ -10,7 +10,7 @@ This money tracking application allows users to manage their expenses and income
   - 
 - **Adding Items:**
   - User can Add new Items.
-  - 
+  - Add selection  between income and expense items.
 - **Display and Sorting:**
   - Collection of items can be displayed and sorted in ascending or descending order.
   - Sorting options include by month, amount, or title.
