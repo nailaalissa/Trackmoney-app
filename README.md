@@ -7,7 +7,10 @@ This money tracking application allows users to manage their expenses and income
 - **Modeling Items:**
   - Each item is represented with a title, amount, and assigned month.
   - Distinguishes between income and expense items.
-
+  - 
+- **Adding Items:**
+  - User can Add new Items.
+  - 
 - **Display and Sorting:**
   - Collection of items can be displayed and sorted in ascending or descending order.
   - Sorting options include by month, amount, or title.
