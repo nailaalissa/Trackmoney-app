@@ -1,6 +1,7 @@
 # Money Tracking Application
+This application allows users to manage their expenses and incomes in a simple and intuitive way. Users can enter, edit, and remove items, assign them to a specific month, and save the current state to a file for later retrieval.
 
-This money tracking application allows users to manage their expenses and incomes in a simple and intuitive way. Users can enter, edit, and remove items, assign them to a specific month, and save the current state to a file for later retrieval.
+
 
 ## Features
 - **Modeling Items:**
